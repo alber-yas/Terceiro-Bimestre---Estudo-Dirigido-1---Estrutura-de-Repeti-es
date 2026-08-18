@@ -13,7 +13,7 @@ programa
 		}
 		se(i > n){
 			r = f
-			escreva("O numero fatorial de ", n, " ou ", n, "! e igual a ", r)
+			escreva("O numero fatorial de ", n, " e igual a ", r)
 		}
 	}
 }
